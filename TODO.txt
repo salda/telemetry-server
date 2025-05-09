@@ -1,0 +1,2 @@
+get rid of FetchContent_Populate for Pistache's RapidJSON dependency
+use JSON schema for error handling instead
